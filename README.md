@@ -5,7 +5,7 @@ Hydrate is an app designed to make daily water tracking simple and enjoyable, he
 
 
 
---
+---
 ## Features
 
 1. **Getting Started**: Begin by entering your body weight on the app’s setup page. Hydrate will calculate an ideal daily water intake based on your weight, creating a personalized hydration goal.
