@@ -16,7 +16,6 @@ Fun Progress Icons: Motivational icons change as you progress. If you haven’t 
 
 4-Adjusting Water Intake: Log your water intake using intuitive plus and minus buttons, allowing you to easily update your progress.
 
-![TimePicker](https://github.com/user-attachments/assets/81e717a5-95cf-41d7-b3a8-0aba544694af)
 
 
 Hydrate empowers you to stay consistent with your hydration habits, making water tracking both effortless and rewarding. Whether you're aiming to improve your health or simply ensure steady hydration, Hydrate is your reliable daily companion.
