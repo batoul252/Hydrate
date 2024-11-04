@@ -2,7 +2,7 @@ Here's a `README.md` file for your Hydrate app with the provided content and emb
 
 ---
 
-#💦Hydrate
+# 💦Hydrate
 
 Hydrate is an app designed to make daily water tracking simple and enjoyable, helping users stay on top of their hydration goals. With a sleek, user-friendly design built in SwiftUI, Hydrate offers intuitive features that make tracking and managing water intake easy.
 
@@ -29,7 +29,7 @@ Hydrate empowers you to stay consistent with your hydration habits, making water
 
 
 
-#Installation
+# Installation
 To install and run Hydrate on your local machine:
 
 Clone the repository:
@@ -42,7 +42,7 @@ Build and Run: Select your target device or simulator and click the "Run" button
 
 
 
-#Requirements
+# Requirements
 iOS 15.0 or later
 Xcode 13.0 or later
 SwiftUI
