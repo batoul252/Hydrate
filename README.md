@@ -26,7 +26,7 @@ To install and run Hydrate on your local machine:
 
 1. **Clone the repository**:
  
-   git clone https://github.com/your-username/hydrate.git
+   git clone https://github.com/batoul252/hydrate.git
   
 2. **Navigate to the project directory**:
    ``bash
