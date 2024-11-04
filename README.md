@@ -48,6 +48,7 @@ Build and Run: Select your target device or simulator and click the "Run" button
 - iOS 15.0 or later 
 - Xcode 13.0 or later
 - SwiftUI
+- simulator
 
 
 
