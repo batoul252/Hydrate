@@ -52,5 +52,6 @@ To install and run Hydrate on your local machine:
   <img width="180" alt="TimePicker" src="https://github.com/user-attachments/assets/81e717a5-95cf-41d7-b3a8-0aba544694af">
   <img width="180" alt="Circle" src="https://github.com/user-attachments/assets/55371330-97ce-475f-ae4a-3edbcf7cfd49">
 </p>
-```
+
+
 
