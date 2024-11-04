@@ -29,7 +29,6 @@ To install and run Hydrate on your local machine:
    git clone https://github.com/batoul252/hydrate.git
   
 2. **Navigate to the project directory**:
-   ``bash
    cd hydrate
    
 4. **Open the project in Xcode**: Open `Hydrate.xcodeproject` in Xcode.
