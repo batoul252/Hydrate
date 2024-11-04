@@ -19,6 +19,35 @@ Hydrate is an app designed to make daily water tracking simple and enjoyable, he
 
 Hydrate empowers you to stay consistent with your hydration habits, making water tracking both effortless and rewarding. Whether you're aiming to improve your health or simply ensure steady hydration, Hydrate is your reliable daily companion.
 
+
+
+#Installation
+To install and run Hydrate on your local machine:
+
+Clone the repository:
+bash
+نسخ الكود
+git clone https://github.com/your-username/hydrate.git
+Navigate to the project directory:
+bash
+نسخ الكود
+cd hydrate
+Open the project in Xcode: Open Hydrate.xcodeproj in Xcode.
+Build and Run: Select your target device or simulator and click the "Run" button in Xcode.
+
+
+
+#Requirements
+iOS 15.0 or later
+Xcode 13.0 or later
+SwiftUI
+
+
+
+
+
+
+
 ## Screenshots
 
 <p float="left">
