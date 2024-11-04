@@ -31,7 +31,7 @@ To install and run Hydrate on your local machine:
 2. **Navigate to the project directory**:
    cd hydrate
    
-4. **Open the project in Xcode**: Open `Hydrate.xcodeproject` in Xcode.
+4. **Open the project in Xcode**: Open `Hydrate.xcodeproj` in Xcode.
 
 5. **Build and Run**: Select your target device or simulator, then click the "Run" button in Xcode.
 
