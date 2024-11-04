@@ -23,6 +23,8 @@ Hydrate empowers you to stay consistent with your hydration habits, making water
 
 
 
+
+
 <img width="180" alt=“BodyWight” src="https://github.com/user-attachments/assets/59cdf78b-b60d-4b07-bb69-450ab5b63959">
 <img width="180" alt=“Notifiction” src="https://github.com/user-attachments/assets/d31773a3-ad28-40d8-9c60-8369e2050d9b">
 <img width="180" alt=“Circle” src="https://github.com/user-attachments/assets/55371330-97ce-475f-ae4a-3edbcf7cfd49">
