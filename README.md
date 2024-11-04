@@ -24,9 +24,7 @@ Hydrate keeps you consistent with your hydration habits, making water tracking b
 
 To install and run Hydrate on your local machine:
 
-1. **Clone the repository**:
- 
-   git clone https://github.com/batoul252/hydrate.git
+1. **Clone the repository**: git clone https://github.com/batoul252/hydrate.git
   
 2. **Navigate to the project directory**:
    cd hydrate
